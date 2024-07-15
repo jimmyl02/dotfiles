@@ -1,0 +1,9 @@
+include current-theme.conf
+
+font_family Hack
+
+
+# BEGIN_KITTY_THEME
+# Afterglow
+include current-theme.conf
+# END_KITTY_THEME
